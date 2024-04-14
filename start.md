@@ -1,5 +1,3 @@
-طبعًا، فهمت طلبك. سأقوم بتوفير شرح كامل باللغتين العربية والإنجليزية لكل جزء من الكود:
-
 ---
 
 # discord.js@13 شرح كامل
@@ -68,5 +66,3 @@ We listen for message events, and if the message content is 'hello', the bot rep
 The bot logs in using its token.
 
 ---
-
-آمل أن يكون هذا الشرح مفيدًا لك! إذا كان لديك أي أسئلة، فلا تتردد في طرحها.
