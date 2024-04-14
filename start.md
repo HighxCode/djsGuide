@@ -1,5 +1,3 @@
----
-
 # discord.js@13 شرح كامل
 
 ## مقدمة:
@@ -64,5 +62,3 @@ We listen for message events, and if the message content is 'hello', the bot rep
 
 ### 5. Logging In:
 The bot logs in using its token.
-
----
